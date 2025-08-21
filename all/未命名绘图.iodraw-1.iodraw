@@ -182,7 +182,7 @@
             <mxPoint x="449.3777391242337" y="687.48" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6uLhLB8ThvoVUPrDtZ0O-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=11.811;endArrow=circle;endFill=0;shape=link;edgeStyle=elbowEdgeStyle;" edge="1" parent="1">
+        <mxCell id="6uLhLB8ThvoVUPrDtZ0O-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3.937;endArrow=circle;endFill=0;shape=link;edgeStyle=elbowEdgeStyle;strokeColor=#cf1717;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="660" as="sourcePoint" />
             <mxPoint x="520" y="950" as="targetPoint" />
