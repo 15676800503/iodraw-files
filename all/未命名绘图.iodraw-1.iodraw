@@ -190,8 +190,8 @@
         </mxCell>
         <mxCell id="6uLhLB8ThvoVUPrDtZ0O-4" value="" style="endArrow=classic;html=1;rounded=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shape=link;strokeWidth=3.937;strokeColor=#f70808;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="620" y="510" as="sourcePoint" />
-            <mxPoint x="720" y="550" as="targetPoint" />
+            <mxPoint x="300" y="550" as="sourcePoint" />
+            <mxPoint x="400" y="594.0933" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
