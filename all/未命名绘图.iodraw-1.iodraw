@@ -188,7 +188,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6uLhLB8ThvoVUPrDtZ0O-4" value="" style="endArrow=none;html=1;rounded=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shape=flexArrow;strokeWidth=3.937;strokeColor=#f70808;endFill=0;startArrow=block;endSize=0;startSize=9.0551;" edge="1" parent="1">
+        <mxCell id="6uLhLB8ThvoVUPrDtZ0O-4" value="" style="endArrow=none;html=1;rounded=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shape=flexArrow;strokeWidth=3.937;strokeColor=#f70808;endFill=0;startArrow=none;endSize=0;startSize=9.0551;startFill=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="300" y="560" as="sourcePoint" />
             <mxPoint x="440" y="540" as="targetPoint" />
