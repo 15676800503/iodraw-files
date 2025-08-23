@@ -315,6 +315,9 @@
         <mxCell id="6bwqT1i-GhrtBJ9cUm8u-22" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="568.74" y="481.81" width="11.811" height="11.81" as="geometry" />
         </mxCell>
+        <mxCell id="6bwqT1i-GhrtBJ9cUm8u-24" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="620" y="570" width="11.811" height="11.81" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
