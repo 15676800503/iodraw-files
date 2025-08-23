@@ -254,7 +254,7 @@
           <mxGeometry x="1280" y="420" width="433.07" height="433.07" as="geometry" />
         </mxCell>
         <mxCell id="PwSzB5hUDMXeU6cXjehA-410" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.surge_protection_1p;strokeWidth=11.811;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="310" width="165.35399999999998" height="374.015" as="geometry" />
+          <mxGeometry x="-680" y="590" width="165.35399999999998" height="374.015" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
